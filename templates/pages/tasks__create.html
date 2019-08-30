@@ -1,6 +1,6 @@
 {% if account != nil %}
 
-	{% assign send_result = "new_task" | send_email: to: params.to, task: params.task %}
+	{% assign send_result = "new_task" | send_email: to: params.to, task: params.name %}
 
 	alertify.success("{{ l.created }}");
 {% endif %}
