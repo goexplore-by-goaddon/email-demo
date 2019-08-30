@@ -2,6 +2,7 @@
 	"en": {
 		"headline": "Task",
 		"placeholders": {
+			"to": "Enter email address...",
 			"name": "Enter task name..."
 		},
 		"buttons": {
