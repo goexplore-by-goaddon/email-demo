@@ -1,12 +1,12 @@
 {
-	"en": {
-		"headline": "Tasks",
-		"placeholders": {
-			"to": "Enter email address...",
-			"name": "Enter task name..."
-		},
-		"buttons": {
-			"create": "Send"
-		}
-	}
+  "en": {
+    "headline": "Tasks",
+    "placeholders": {
+      "to": "Enter email address...",
+      "name": "Enter task name..."
+    },
+    "buttons": {
+      "create": "Send"
+    }
+  }
 }
