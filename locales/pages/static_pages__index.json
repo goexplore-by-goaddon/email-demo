@@ -1,5 +1,6 @@
 {
   "en": {
+    "title": "Email demo",
     "headline": "Welcome",
     "explainer": {
     "p1": "This is a demo task manager. The goal is to demonstrate how to send emails.",
